@@ -1,0 +1,7 @@
+{
+  "name": "dmuratov/yii2-cron",
+  "description": "Manager of cron tasks",
+  "require": {
+      "yiisoft/yii2": "*"
+  }
+}

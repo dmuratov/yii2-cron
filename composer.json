@@ -2,6 +2,11 @@
   "name": "dmuratov/yii2-cron",
   "description": "Manager of cron tasks",
   "license": "BSD-3-Clause",
+  "autoload": {
+      "psr-4": {
+          "dmuratov\\cron\\": ""
+      }
+  },
   "require": {
       "yiisoft/yii2": "*"
   }
